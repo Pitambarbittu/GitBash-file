@@ -1,0 +1,104 @@
+LENOVO@LAPTOP-4OTBAR7F MINGW64 ~/Desktop/GitBash file
+$ ls
+calculator/
+
+LENOVO@LAPTOP-4OTBAR7F MINGW64 ~/Desktop/GitBash file
+$ cd calculator
+
+LENOVO@LAPTOP-4OTBAR7F MINGW64 ~/Desktop/GitBash file/calculator
+$ cal
+Enter the TWO numbers for the Operation:-
+10
+10
+Provide your Choice of Operation from below the Options:-
+1- Addition
+2- Subtraction
+3- Multiplication
+4- Division
+Choose one Option:-
+1
+ Answer:-  20
+
+LENOVO@LAPTOP-4OTBAR7F MINGW64 ~/Desktop/GitBash file/calculator
+$ cal
+Enter the TWO numbers for the Operation:-
+60
+30
+Provide your Choice of Operation from below the Options:-
+1- Addition
+2- Subtraction
+3- Multiplication
+4- Division
+Choose one Option:-
+2
+ Answer:-  30
+
+LENOVO@LAPTOP-4OTBAR7F MINGW64 ~/Desktop/GitBash file/calculator
+$ cal
+Enter the TWO numbers for the Operation:-
+7
+5
+Provide your Choice of Operation from below the Options:-
+1- Addition
+2- Subtraction
+3- Multiplication
+4- Division
+Choose one Option:-
+3
+ Answer:-  35
+
+LENOVO@LAPTOP-4OTBAR7F MINGW64 ~/Desktop/GitBash file/calculator
+$ cal
+Enter the TWO numbers for the Operation:-
+59
+7
+Provide your Choice of Operation from below the Options:-
+1- Addition
+2- Subtraction
+3- Multiplication
+4- Division
+Choose one Option:-
+4
+ Answer:-  8
+
+LENOVO@LAPTOP-4OTBAR7F MINGW64 ~/Desktop/GitBash file/calculator
+$ cal
+Enter the TWO numbers for the Operation:-
+7
+59
+Provide your Choice of Operation from below the Options:-
+1- Addition
+2- Subtraction
+3- Multiplication
+4- Division
+Choose one Option:-
+4
+ Answer:-  0
+
+LENOVO@LAPTOP-4OTBAR7F MINGW64 ~/Desktop/GitBash file/calculator
+$ cal
+Enter the TWO numbers for the Operation:-
+80
+5
+Provide your Choice of Operation from below the Options:-
+1- Addition
+2- Subtraction
+3- Multiplication
+4- Division
+Choose one Option:-
+4
+ Answer:-  16
+
+LENOVO@LAPTOP-4OTBAR7F MINGW64 ~/Desktop/GitBash file/calculator
+$ cal
+Enter the TWO numbers for the Operation:-
+90
+3
+Provide your Choice of Operation from below the Options:-
+1- Addition
+2- Subtraction
+3- Multiplication
+4- Division
+Choose one Option:-
+4
+ Answer:-  30
